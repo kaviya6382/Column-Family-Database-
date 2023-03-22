@@ -1,3 +1,5 @@
+Column Family Database 
+
 Cassandra is a free and open-source, distributed, wide-column store, NoSQL database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure.
 
 Design for a movie ticket registration system in Cassandra:
